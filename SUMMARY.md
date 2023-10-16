@@ -1,6 +1,15 @@
 # Table of contents
 
 * [Miro](https://miro.com/app/live-embed/o9J\_l89LlXs=/?moveToViewport=37727,236,1168,824\&embedId=416452390495)
-* [Vwl vs. BWl](README.md)
+* [VWL vs. BWL](README.md)
 * [Privates und öffentliches Recht](privates-und-oeffentliches-recht.md)
 * [Rechtssubjekte Rechtsobjekte](rechtssubjekte-rechtsobjekte.md)
+* [Rechtsfähigkeit und Geschäftsfähigkeit](rechtsfaehigkeit-und-geschaeftsfaehigkeit.md)
+* [Besitz und Eigentum](besitz-und-eigentum.md)
+* [Willenerklärung](willenerklaerung.md)
+* [Rechtsgeschäfte](rechtsgeschaefte.md)
+* [Nichtigkeit & Anfechtung](nichtigkeit-and-anfechtung/README.md)
+  * [Nichtigkeit](nichtigkeit-and-anfechtung/nichtigkeit.md)
+  * [Anfechtung](nichtigkeit-and-anfechtung/anfechtung.md)
+  * [Gerichtsbarkeiten](nichtigkeit-and-anfechtung/gerichtsbarkeiten.md)
+* [Schuldrecht](schuldrecht.md)

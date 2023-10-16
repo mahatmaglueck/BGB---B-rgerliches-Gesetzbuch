@@ -1,0 +1,2 @@
+# Rechtsfähigkeit und Geschäftsfähigkeit
+
