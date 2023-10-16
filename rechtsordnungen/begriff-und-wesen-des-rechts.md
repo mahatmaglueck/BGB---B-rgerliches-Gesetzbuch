@@ -1,6 +1,6 @@
 # Begriff und Wesen des Rechts
 
-### 1.1 Begriff und Wesen des Rechts&#x20;
+### Begriff und Wesen des Rechts&#x20;
 
 
 
