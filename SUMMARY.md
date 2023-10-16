@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Miro - BGB](https://miro.com/app/live-embed/o9J\_l89LlXs=/?moveToViewport=37727,236,1168,824\&embedId=416452390495)
+* [Miro - BGB](https://miro.com/app/live-embed/uXjVOiWOO20=/?moveToViewport=5488,4429,5750,3400\&embedId=997603036425)
 * [Rechtsordnungen](README.md)
   * [Miro](https://miro.com/app/embed/uXjVOiWOO20=/?pres=1\&frameId=3458764562150661834\&embedId=936294542602)
   * [Begriff und Wesen des Rechts](rechtsordnungen/begriff-und-wesen-des-rechts.md)
   * [Gliederung des Rechts](rechtsordnungen/gliederung-des-rechts.md)
   * [Gliederung und Inhalt des BGB](rechtsordnungen/gliederung-und-inhalt-des-bgb.md)
-* [Privates und öffentliches Recht](privates-und-oeffentliches-recht/README.md)
+* [Privates und öffentliches Recht](privates-und-oeffentliches-recht.md)
   * [Rechtsgebiete ](https://learningapps.org/watch?v=p3hhyc1kj23)
-* [Rechtssubjekte Rechtsobjekte](rechtssubjekte-rechtsobjekte/README.md)
+* [Rechtssubjekte Rechtsobjekte](rechtssubjekte-rechtsobjekte.md)
   * [Rechtssubjekte & Rechstobjekte](https://learningapps.org/watch?v=pq5xkswon23)
 * [Rechtsfähigkeit und Geschäftsfähigkeit](rechtsfaehigkeit-und-geschaeftsfaehigkeit.md)
 * [Besitz und Eigentum](besitz-und-eigentum.md)
