@@ -4,6 +4,7 @@
 * [Rechtsordnungen](README.md)
   * [Begriff und Wesen des Rechts](rechtsordnungen/begriff-und-wesen-des-rechts.md)
   * [Gliederung des Rechts](rechtsordnungen/gliederung-des-rechts.md)
+  * [Gliederung und Inhalt des BGB](rechtsordnungen/gliederung-und-inhalt-des-bgb.md)
 * [Privates und öffentliches Recht](privates-und-oeffentliches-recht.md)
 * [Rechtssubjekte Rechtsobjekte](rechtssubjekte-rechtsobjekte.md)
 * [Rechtsfähigkeit und Geschäftsfähigkeit](rechtsfaehigkeit-und-geschaeftsfaehigkeit.md)
