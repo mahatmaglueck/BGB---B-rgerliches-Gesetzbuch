@@ -1,0 +1,2 @@
+# Geschäftsfähigkeit
+
