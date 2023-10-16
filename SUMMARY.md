@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Miro - BGB](https://miro.com/app/live-embed/uXjVOiWOO20=/?moveToViewport=5488,4429,5750,3400\&embedId=997603036425)
+* [⬜ Miro - BGB](https://miro.com/app/live-embed/uXjVOiWOO20=/?moveToViewport=5488,4429,5750,3400\&embedId=997603036425)
 * [Rechtsordnungen](README.md)
   * [Begriff und Wesen des Rechts](rechtsordnungen/begriff-und-wesen-des-rechts.md)
   * [Gliederung des Rechts](rechtsordnungen/gliederung-des-rechts.md)
