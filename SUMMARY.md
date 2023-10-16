@@ -2,7 +2,6 @@
 
 * [Miro - BGB](https://miro.com/app/live-embed/uXjVOiWOO20=/?moveToViewport=5488,4429,5750,3400\&embedId=997603036425)
 * [Rechtsordnungen](README.md)
-  * [Miro](https://miro.com/app/embed/uXjVOiWOO20=/?pres=1\&frameId=3458764562150661834\&embedId=936294542602)
   * [Begriff und Wesen des Rechts](rechtsordnungen/begriff-und-wesen-des-rechts.md)
   * [Gliederung des Rechts](rechtsordnungen/gliederung-des-rechts.md)
   * [Gliederung und Inhalt des BGB](rechtsordnungen/gliederung-und-inhalt-des-bgb.md)
